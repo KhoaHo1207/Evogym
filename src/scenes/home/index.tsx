@@ -2,7 +2,7 @@ import { SelectedPage } from "@/shared/types";
 import ActionButton from "@/shared/ActionButton";
 import HomePageText from "@/assets/images/HomePageText.png";
 import HomePageGraphic from "@/assets/images/HomePageGraphic.png";
-import SponsorRedbull from "@/assets/images/SponsorRedbull.png";
+import SponsorRedbull from "@/assets/images/SponsorRedBull.png";
 import SponsorForbes from "@/assets/images/SponsorForbes.png";
 import SponsorFortune from "@/assets/images/SponsorFortune.png";
 import useMediaQuery from "@/hooks/useMediaQuery";
